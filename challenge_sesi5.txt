@@ -1,0 +1,21 @@
+CHALLENGE
+Algoritma Luas_Keliling_Lingkaran
+
+STORE "cons phi" 
+    WHERE "cons phi" == 3.14"
+
+STORE "R"
+    WHERE "R == jari-jari lingkaran"
+
+STORE "Luas"
+    WHERE "Luas == luas lingkaran"
+
+STORE "Keliling"
+    WHERE "Keliling == keliling lingkaran"
+
+
+CHOOSE "Luas" 
+IF "yes" 
+    PRINT "Luas = cons phi * R * 
+ELSE IF "no" 
+    PRINT "Keliling = 2 * cons phi * R"
